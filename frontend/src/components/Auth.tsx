@@ -1,4 +1,4 @@
-import React from 'react'
+ 
 import {Link , useNavigate} from 'react-router-dom'
 import {useState, ChangeEvent} from 'react'
 import {SignUpInput} from '@rajratan/mindmint-common'
