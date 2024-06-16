@@ -1,4 +1,4 @@
-import React from "react";
+ 
 import { Link } from 'react-router-dom';
 import { Appbar } from '../components/Appbar';
 import { BlogCard } from '../components/BlogCard';
